@@ -1,0 +1,54 @@
+-------------------------------------------------------------------------
+--- 17/06
+
+- Introdução
+    - Historico (Opcional)
+        > Origem
+        > Características
+    - Apresentar o ambiente de desenvolvimento
+        > Gedit
+    - Explicar o que é uma Linguagem de Programação
+    - Explicar o que é um Compilador
+        > GCC
+    - Ensinar a compilar um código simples
+- Bibliotecas
+    - O que são
+    - Como utilizar
+- Variáveis
+    - Utilizar a analogia da caixa
+    - Explicar sobre constantes x variáveis
+    - Apresentar os tipos
+        > Int
+        > Float
+        > Char
+    - Apresentar um exercício
+    - Apresentar Arrays (Com ex)
+    - Apresentar String (Com ex)
+- I/O
+    - Apresentar funções de Output
+        > Putchar
+        > Puts
+        > Printf
+    - Apresentar Formatação de Output
+    - Apresentar exercício
+    - Apresentar funções de Input
+        > Getchar
+        > Gets
+        > Scanf
+    - Apresentar Formatação de Input
+    - Apresentar exercício
+-Operações
+    - Aritméticas (Com ex)
+    - Relacionais (Com ex)
+    - Lógicas (Com ex)
+- Condicionais
+    - IF (Com ex)
+    - IF ELSE (Com ex)
+    - IF ELSE IF (Com ex)
+    - Aninhamento
+    - Switch (Com ex)
+
+-------------------------------------------------------------------------
+
+
+

@@ -1,0 +1,208 @@
+17,19c17,19
+< 1755 brinquedos
+< Peso: 41 kg
+< sobra(m) 76 pacote(s)
+---
+> 2030 brinquedos
+> Peso: 49 kg
+> sobra(m) 75 pacote(s)
+29,31c29,31
+< 1625 brinquedos
+< Peso: 45 kg
+< sobra(m) 30 pacote(s)
+---
+> 1731 brinquedos
+> Peso: 50 kg
+> sobra(m) 29 pacote(s)
+57,59c57,59
+< 2494 brinquedos
+< Peso: 49 kg
+< sobra(m) 81 pacote(s)
+---
+> 2530 brinquedos
+> Peso: 50 kg
+> sobra(m) 80 pacote(s)
+117,119c117,119
+< 0 brinquedos
+< Peso: 0 kg
+< sobra(m) 2 pacote(s)
+---
+> 69 brinquedos
+> Peso: 50 kg
+> sobra(m) 1 pacote(s)
+205,291c205,291
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+< 
+< 20 brinquedos
+< Peso: 26 kg
+< sobra(m) 93 pacote(s)
+---
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
+> 
+> 30 brinquedos
+> Peso: 39 kg
+> sobra(m) 92 pacote(s)
